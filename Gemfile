@@ -1,3 +1,7 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.4.1"
+gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.1"
+
