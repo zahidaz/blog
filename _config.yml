@@ -1,0 +1,46 @@
+title: Zahid's Blog
+description: Blog about mobile security, Python, Android internals, and technology
+baseurl: ""
+url: "https://blog.azzahid.com"
+theme: minima
+
+favicon: /favicon.svg
+
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+
+header_pages:
+  - index.md
+
+
+navigation:
+  - title: "Home"
+    url: "https://azzahid.com"
+  - title: "Photography" 
+    url: "https://photography.azzahid.com"
+  - title: "Blog"
+    url: "/"
+
+
+linkedin_username: az-zahid
+github_username: zahidaz
+youtube_username: xahidx
+
+
+minima:
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/az-zahid/" }
+    - { platform: github, user_url: "https://github.com/zahidaz" }
+    - { platform: youtube, user_url: "https://www.youtube.com/@xahidx" }
+    - { platform: youtube, user_url: "https://www.youtube.com/@OfTimeAndTerrain" }
+    - { platform: vero, user_url: "https://vero.co/zahidaz" }
