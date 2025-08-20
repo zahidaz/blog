@@ -41,7 +41,7 @@ Feel free to reach out. I'm always interested in discussing mobile security, dev
 - **GitHub**: [zahidaz](https://github.com/zahidaz) - Code repositories and projects
 - **LinkedIn**: [az-zahid](https://www.linkedin.com/in/az-zahid/) - Professional profile
 - **YouTube**: [@OfTimeAndTerrain](https://www.youtube.com/@OfTimeAndTerrain) - Travel and exploration
-- **Photography**: [photography.azzahid.com](https://photography.azzahid.com) - Photography portfolio
+- **Photography**: [https://vero.co/zahidaz](https://vero.co/zahidaz) - Photography portfolio
 - **Email**: Contact me through the LinkedIn
 - **RSS**: Subscribe to blog updates via RSS feed
 
