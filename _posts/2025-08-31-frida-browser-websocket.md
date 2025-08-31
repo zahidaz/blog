@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Manage Frida Directly from the Browser"
 date: 2025-08-31
