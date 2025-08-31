@@ -14,16 +14,14 @@ The common workaround has been to use proxy servers. These proxies translate mes
 
 To address this limitation, I explored [d-bus-message-protocol](https://github.com/clebert/d-bus-message-protocol), a TypeScript implementation of the D-Bus protocol. I also repurposed [frida-web-client](https://github.com/frida/frida-web-client) by Ole André Vadla Ravnås, which normally depends on Node.js and D-Bus.  
 
-By combining these approaches, I built **Frida Web**—a proof of concept that enables direct browser-to-Frida communication.  
+By combining these approaches, I built **Frida Web** - a proof of concept that enables direct browser-to-Frida communication.  
 
 ## How Frida Web Works  
 
 Frida Web connects directly to a running Frida instance at `<ip>:<port>` and opens a WebSocket at:  
 
-```
-
-ws\://<ip>:<port>/ws
-
+```text
+ws://127.0.0.1:27042/ws
 ```
 
 - **D-Bus messages** are marshalled and sent natively over the WebSocket  
