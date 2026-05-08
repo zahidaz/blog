@@ -5,8 +5,9 @@
   icon: 'fab fa-linkedin'   
   url: 'https://www.linkedin.com/in/az-zahid/'
 
-- type: github
-  icon: "fab fa-github"
+- type: git
+  icon: "fas fa-code-branch"
+  url: 'https://codeberg.org/zahidaz'
 
 - type: youtube
   icon: 'fab fa-youtube'
